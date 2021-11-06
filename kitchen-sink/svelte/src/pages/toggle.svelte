@@ -32,7 +32,7 @@
     </ListItem>
     <ListItem>
       <span>Thor</span>
-      <Toggle checked color="orange" />
+      <Toggle checked color="black" />
     </ListItem>
     <ListItem>
       <span>Wonder Woman</span>
